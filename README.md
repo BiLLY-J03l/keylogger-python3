@@ -5,10 +5,18 @@ The keylogger is made to be run in a victim machine that has python3 and pynput 
 
 Installation:
 
-1- > git clone https://github.com/BiLLY-J03l/simple-keylogger.git
+1-
 
-2- > pip install -r requirements.txt --break-system-packages
+    git clone https://github.com/BiLLY-J03l/simple-keylogger.git
 
-3- > chmod +x keylogger.py
+2-
 
-4- > ./keylogger.py
+    pip install -r requirements.txt --break-system-packages
+
+3-
+
+    chmod +x keylogger.py
+
+4-
+    
+    ./keylogger.py
