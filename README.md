@@ -1,9 +1,9 @@
 # simple-keylogger
 Simple keylogger with python3
 
-The keylogger is made to be run in a victim machine that has python3 and pynput lib.. it waits for a period of time, that you specify, and sends the keylogs to your telegram bot.
+-The keylogger is made to be run in a victim machine that has python3 and pynput lib.. it waits for a period of time, that you specify, and sends the keylogs to your telegram bot.
 
-Installation:
+-Installation:
 
 1-
 
