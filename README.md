@@ -1,5 +1,5 @@
-# simple-keylogger
-Simple keylogger with python3
+# keylogger-python3
+keylogger with python3
 
 -The keylogger is made to be run in a victim machine that has python3 and pynput lib. It logs keystrokes entered by the victim for a period of time, that you specify, and sends the keystrokes to your telegram bot.
 
